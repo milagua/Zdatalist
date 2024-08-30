@@ -1,5 +1,5 @@
 [
-   {
+    {
         "route": "NIS",
         "direction": 0,
         "NextStop": 1,
@@ -48,5 +48,5 @@
         "Eng": "感谢您的乘坐！",
         "EngSoundId": "rbxassetid://12285327925",
         "Notification": 0
-    },
+    }
 ]
