@@ -48,5 +48,35 @@
         "Eng": "感谢您的乘坐！",
         "EngSoundId": "rbxassetid://12285327925",
         "Notification": 0
+    },
+    {
+        "route": "1",
+        "direction": 1,
+        "NextStop": 1,
+        "Chi": "欢迎您搭乘",
+        "ChiSoundId": "rbxassetid://12325302256",
+        "Eng": "1路公交车",
+        "EngSoundId": "",
+        "Notification": 0
+    },
+   {
+        "route": "1",
+        "direction": 1,
+        "NextStop": 2,
+        "Chi": "欢迎您搭乘",
+        "ChiSoundId": "",
+        "Eng": "1路公交车\n往火车站方向",
+        "EngSoundId": "",
+        "Notification": 0
+    },
+    {
+        "route": "1",
+        "direction": 1,
+        "NextStop": 3,
+        "Chi": "已经到达终点站",
+        "ChiSoundId": "rbxassetid://12285327650",
+        "Eng": "感谢您的乘坐！",
+        "EngSoundId": "rbxassetid://12285327925",
+        "Notification": 0
     }
 ]
